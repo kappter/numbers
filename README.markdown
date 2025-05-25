@@ -1,7 +1,7 @@
 # 1001 Integers: Divisors & More
 
 ## Overview
-"1001 Integers: Divisors & More" is an interactive web application that visualizes mathematical properties of integers from 0 to 1001. Developed by Ken Kapptie and Kanishka Ragula, this app provides a user-friendly interface to explore divisors, prime factors, base conversions, and various mathematical sequences and properties through a canvas-based number line.
+[1001 Integers: Divisors & More](https://kappter.github.io/numbers/) is an interactive web application that visualizes mathematical properties of integers from 0 to 1001. Developed by Ken Kapptie and Kanishka Ragula, this app provides a user-friendly interface to explore divisors, prime factors, base conversions, and various mathematical sequences and properties through a canvas-based number line.
 
 ## Features
 
